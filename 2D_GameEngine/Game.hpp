@@ -1,4 +1,4 @@
-
+#pragma once
 //#ifdef GAME_HPP
 #define GAME_HPP
 #include "SDL.h"
@@ -19,13 +19,14 @@ public:
 	void render();
 	void clean();
 
+	static SDL_Renderer* renderer;
+
 	bool running() { return isRunning; }
 
 private:
 	int cnt = 0;
 	bool isRunning;
 	SDL_Window* window;
-	SDL_Renderer* renderer;
 };
 
 
