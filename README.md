@@ -17,10 +17,10 @@ Looking for internships is hard, so I want a nice portfolio to stand out. This p
 - [] Publish said game
 
 # Engine Features:
-**NOTE:** will be populated with features I want to add once all the basics are done\
+**NOTE:** will be populated with features I want to add once all the basics are done
 
 :white_check_mark: Rendering to a window\
-:white_check_mark: Rendering a sprite (png) to a window\
+:white_check_mark: Rendering a sprite (png) to a window
 
 # Libraries
 SDL2: https://github.com/libsdl-org/SDL \
