@@ -20,7 +20,7 @@ Looking for internships is hard, so I want a nice portfolio to stand out. This p
 **NOTE:** will be populated with features I want to add once all the basics are done
 
 :white_check_mark: Rendering to a window\
-:white_check_mark: Rendering a sprite (png) to a window
+:white_check_mark: Rendering a sprite (png) to a window\
 :white_check_mark: Creating Game Objects (NPCs, Player Characters, Items, ETC)
 
 # Libraries
