@@ -18,6 +18,7 @@ Looking for internships is hard, so I want a nice portfolio to stand out. This p
 :white_check_mark: Rendering a sprite (png) to a window\
 :white_check_mark: Creating Game Objects (NPCs, Player Characters, Items, ETC)\
 :white_check_mark: Tile Map Support\
+:white_check_mark: Entity Components System\
 ❌ Input Handling\
 ❌ Collision Detection\
 ❌ Layer Rendering\
