@@ -12,7 +12,7 @@ this time with the intention of actually using this engine once its finished to 
 Looking for internships is hard, so I want a nice portfolio to stand out. This project will show my proficiency with C++ and game development at the same time!
 # Engine Features:
 ✅ are features that have been added\
-❌ are features that are planned but not added yet\
+❌ are features that are planned but not added yet
 
 :white_check_mark: Rendering to a window\
 :white_check_mark: Rendering a sprite (png) to a window\
