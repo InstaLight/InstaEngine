@@ -10,19 +10,19 @@ this time with the intention of actually using this engine once its finished to 
 
 ### Portfolio
 Looking for internships is hard, so I want a nice portfolio to stand out. This project will show my proficiency with C++ and game development at the same time!
-
-## TASKS
-- [] Finish the engine
-- [] Start full development of a game
-- [] Publish said game
-
 # Engine Features:
-**NOTE:** will be populated with features I want to add once all the basics are done
+✅ are features that have been added\
+❌ are features that are planned but not added yet\
 
 :white_check_mark: Rendering to a window\
 :white_check_mark: Rendering a sprite (png) to a window\
 :white_check_mark: Creating Game Objects (NPCs, Player Characters, Items, ETC)\
-:white_check_mark: Tile Map Support
+:white_check_mark: Tile Map Support\
+❌ Input Handling\
+❌ Collision Detection\
+❌ Layer Rendering\
+❌ Sprite Animation\
+❌ Audio Handling
 
 # Libraries
 SDL2: https://github.com/libsdl-org/SDL \
